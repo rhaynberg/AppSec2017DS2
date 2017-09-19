@@ -99,6 +99,14 @@
                   "severity": "Medium",
                   "title": "Closed threat",
                   "type": "Spoofing"
+                },
+                {
+                  "ruleId": "87bc37e2-798e-4d68-bb96-feb1da26da48",
+                  "title": "Generic repudiation threat",
+                  "type": "Repudiation",
+                  "status": "Open",
+                  "severity": "Medium",
+                  "description": "A generic repudiation threat"
                 }
               ],
               "attrs": {
